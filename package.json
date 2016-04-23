@@ -1,0 +1,18 @@
+{
+  "name": "expii",
+  "version": "1.0.0",
+  "main": "bundle.js",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

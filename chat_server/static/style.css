@@ -1,0 +1,58 @@
+.chatWrapper {
+	border: 2px solid;
+	width: 200px;
+	/*padding-left: 15px;*/
+	/*padding-right: 15px;*/
+	display: inline-block;
+	margin: 15px;
+}
+.chatContent {
+	height: 150px;
+	min-height: 150px;
+	overflow: auto;
+	width:200px;
+	/*padding:10px;*/
+	word-wrap: break-word;
+	border: 1px solid;
+	/*padding-left: 15px;*/
+	/*padding-right: 15px;*/
+}
+
+.usernameHeader {
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom:5px;
+	display: inline-block;
+}
+
+.closeChat {
+	display: inline-block;
+	text-decoration: none;
+	float: right;
+	color: black;
+	font-size:25px;
+	margin-right: 5px;
+}
+
+#clients_div {
+	display: inline-block;
+}
+#startConvoText {
+	margin-right: 5px;
+	display:inline-block;
+}
+
+#clientSelect {
+	display:inline-block;
+}
+
+.submitInput {
+	margin-left: 15px;
+}
+
+#username_submit {
+	display: inline-block;
+}
+#nameLabel {
+	display:inline-block;
+}
